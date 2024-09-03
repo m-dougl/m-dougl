@@ -5,9 +5,15 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <a href="linkedin.com/in/douglas-maia-33439921b" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="doug.engenharia.eletrica@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.youtube.com/@fernettv" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
 </div>
 
 ###
@@ -20,7 +26,7 @@
 
 ###
 
-<p align="left">Hi there, I’m Douglas from Brazil! 👋<br><br>- 🔭 Current Role: Data Engineer at TIM<br><br>- 📚 Learning Focus: Data Engineering pipelines and Machine Learning applied to Big Data scenarios<br><br>- ⚡ Hobbies: Improving communication skills and exploring the field of telecommunications<br><br>- 🌱 Currently Exploring: Cloud technologies and their applications in data engineering<br><br>- 💬 Ask Me About: Data engineering best practices, machine learning, and telecommunications<br><br>- 🎯 Goals: To become a leading expert in data engineering and contribute to innovative projects in the tech industry<br><br> - 🤝 Looking to Collaborate On: Open-source data engineering projects and machine learning initiatives</p>
+<p align="left">Hi there, I’m Douglas from Brazil! 👋<br><br>- 🔭 Current Role:  Analyst at TIM<br>- 📚 Learning Focus: Data Engineering pipelines and Machine Learning applied to Big Data scenarios<br>- ⚡ Hobbies: Improving communication skills and exploring the field of telecommunications<br>- 🌱 Currently Exploring: Cloud technologies and their applications in data engineering<br>- 💬 Ask Me About: Data engineering best practices, machine learning, and telecommunications<br>- 🎯 Goals: To become a leading expert in data engineering and contribute to innovative projects in the tech industry<br> - 🤝 Looking to Collaborate On: Open-source data engineering projects and machine learning initiatives</p>
 
 ###
 
