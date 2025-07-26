@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/douglas-maia-33439921b" target="_blank">
+  <a href="https://linkedin.com/in/mdougl" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Badge" />
   </a>
   <a href="mailto:doug.engenharia.eletrica@gmail.com" target="_blank">
@@ -26,7 +26,7 @@
 
 <p align="left">
 Hi there, I’m Douglas from Brazil! 👋<br><br>
-- 🔭 Current Role: Analyst at TIM<br>
+- 🔭 Current Role: Data Engineer at TIM<br>
 - 📚 Learning Focus: Data Engineering pipelines and Machine Learning applied to Big Data scenarios<br>
 - ⚡ Hobbies: Improving communication skills and exploring the field of telecommunications<br>
 - 🌱 Currently Exploring: Cloud technologies and their applications in data engineering<br>
